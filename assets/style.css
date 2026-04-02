@@ -11,9 +11,11 @@
 .skill-pill{
     color: white !important;
 }
-  body{
-            overflow-x: hidden !important;
-        }
+@media (max-width: 425px) {
+
+    body {
+        overflow-x: hidden !important; /* reduce side spacing */
+    }
 
 /* Dark Mode Variables */
 [data-theme="dark"] {
