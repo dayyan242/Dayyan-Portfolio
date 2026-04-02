@@ -138,3 +138,15 @@ document.addEventListener('DOMContentLoaded', () => {
         themeIcon.classList.add('fa-moon');
     }
 });
+var swiper = new Swiper(".mySwiper", {
+  slidesPerView: 1,
+  spaceBetween: 20,
+  breakpoints: {
+    768: {
+      slidesPerView: 2,
+    },
+    1024: {
+      slidesPerView: 3,
+    },
+  },
+});
