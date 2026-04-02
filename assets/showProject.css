@@ -53,6 +53,18 @@ nav {
 /* ===================================== */
 /* PROJECT SECTION MOBILE FIX 425px     */
 /* ===================================== */
+@media (max-width: 425px) {
+
+    .swiper-slide {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    .card-content button {
+        display: block !important;
+    }
+
+}
 
 @media (max-width: 425px) {
 
