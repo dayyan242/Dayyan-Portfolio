@@ -8,6 +8,9 @@
     --light: #fff;
     --gray: #f4f4f4;
 }
+..skill-pill{
+    color: white !important;
+}
 
 /* Dark Mode Variables */
 [data-theme="dark"] {
