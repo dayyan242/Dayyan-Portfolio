@@ -11,6 +11,9 @@
 .skill-pill{
     color: white !important;
 }
+  body{
+            overflow: hidden !important;
+        }
 
 /* Dark Mode Variables */
 [data-theme="dark"] {
