@@ -12,7 +12,7 @@
     color: white !important;
 }
   body{
-            overflow: hidden !important;
+            overflow-x: hidden !important;
         }
 
 /* Dark Mode Variables */
