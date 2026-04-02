@@ -1544,7 +1544,7 @@ nav {
         }
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 425px) {
         .swiper-slide {
             width: 260px;
             height: 300px;
@@ -1582,7 +1582,7 @@ nav {
             right: 10px;
         }
         
-        @media (max-width: 480px) {
+        @media (max-width: 4250px) {
             padding: 10px;
             bottom: 8px;
             left: 8px;
